@@ -8,4 +8,4 @@ I am interested in learning more about Human-Computer Interaction, VR/AR, UI/UX 
 - Exploring accessibility and non-visual interaction
 
 ### Featured Projects
-I have pinned my featured projects below!! Please check them out for further explanation and demos! 
+I have pinned my featured projects!! Please check them out for further explanation and demos! 
