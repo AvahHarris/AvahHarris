@@ -1,11 +1,12 @@
 ## Introduction
-Hello, my name is Avah Harris and I am a current junior at the University of Chicago studying Computer Science. 
-I am interested in learning more about Human-Computer Interaction, VR/AR, UI/UX design, Interactive Systems, and Tech Policy.
+Hello, my name is Avah Harris and I am a fourth year at the University of Chicago studying Computer Science. 
+I am interested in transitionng into the aerospace or themed entertainment industry. I love working at the intersection of both hardware and software. I'm looking to gain more experience in mechanical design and manufacturing techniques. 
 
 ### What I’m working on
-- VR Scuba Diving simulation with haptics and system feedback
-- VibroSort: a haptic-based learning game
-- Exploring accessibility and non-visual interaction
+- RockSat ~ Mechanical Design
+- Lineform-AI ~ Shape Changing Robotic Interface embodied by AI
+- Fantasia ~ Co-Author for Fantasia. An HCI paper focusing on Human-Object Interaction Enrichment (HOIE)
+- Custom MP3 Player Project
 
 ### Featured Projects
 I have pinned my featured projects!! Please check them out for further explanation and demos! 
