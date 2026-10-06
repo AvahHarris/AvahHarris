@@ -9,4 +9,4 @@ I am interested in transitionng into the aerospace or themed entertainment indus
 - Custom MP3 Player Project
 
 ### Featured Projects
-I have pinned my featured projects!! Please check them out for further explanation and demos! 
+Please refer to Avah-Harris-Portfolio-Projects for project demos and examples! 
